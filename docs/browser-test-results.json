@@ -1,0 +1,50 @@
+{
+  "checks": [
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "noHorizontalOverflow": true,
+      "imagesLoaded": true,
+      "header": true,
+      "main": true,
+      "footer": true
+    },
+    {
+      "width": 1024,
+      "scrollWidth": 1024,
+      "noHorizontalOverflow": true,
+      "imagesLoaded": true,
+      "header": true,
+      "main": true,
+      "footer": true
+    },
+    {
+      "width": 768,
+      "scrollWidth": 768,
+      "noHorizontalOverflow": true,
+      "imagesLoaded": true,
+      "header": true,
+      "main": true,
+      "footer": true
+    },
+    {
+      "width": 390,
+      "scrollWidth": 390,
+      "noHorizontalOverflow": true,
+      "imagesLoaded": true,
+      "header": true,
+      "main": true,
+      "footer": true
+    },
+    {
+      "width": 320,
+      "scrollWidth": 320,
+      "noHorizontalOverflow": true,
+      "imagesLoaded": true,
+      "header": true,
+      "main": true,
+      "footer": true
+    }
+  ],
+  "errors": []
+}
